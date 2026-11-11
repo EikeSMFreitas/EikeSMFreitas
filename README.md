@@ -1,7 +1,5 @@
 # 🧑‍💻 Eike Simon Melo Freitas
 
-**`Desenvolvedora FullStack`**
-
 Me chamo Eike Simon Melo Freitas, tenho 21 anos e sou natural do Ceará. Concluí o ensino médio na EEFM Rogério Fróes, com o curso técnico em T.I. Sou apaixonado por tecnologia.
 
 <p align="left">
